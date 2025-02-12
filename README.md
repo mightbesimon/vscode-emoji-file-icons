@@ -83,9 +83,10 @@ Other: [ 🗑 🐞 ⚙️ 🔒/🔓 💬 💡 ]
 
 ### Special Files
 
-git and github
+git, github
 
 - 🤷‍♀️ .gitignore
+- 👩‍🔧 .gitconfig
 - 💵 FUNDING.yml
 - 🤖 dependabot.yml
 
@@ -115,47 +116,80 @@ vscode
 - 🛒 .vscode/extensions.json
 - 🤷‍♀️ .vscodeignore
 
-node
+node, yarn, bun
 
 - 📦 package.json
 - 🔒 package-lock.json
+- 🌯 npm-shrinkwrap.json
 - ⚙️ .npmrc
 - 🤷‍♀️ .npmignore
+- 🧶 yarn.lock
+- 🧶 .yarnrc | .yarnrc.yml
 - 🧽 .eslintrc.json
 - ⚙️ tsconfig.json
 - 🃏 jest.config.ts | jest.config.js
 - 🎭 playwright.config.ts | playwright.config.js
+- 🌭 bun.lockb
 
 web
 
 - 🌠 favicon.ico
 - 🤖 robots.txt
+- 🍪 cookie.txt
+- 🗺 sitemap.xml
+- 📜 manifest.json
+
+web services
+
+- 🔥 firebase.json
+- 🔥 .firebaserc
+- 🔥 .config/configstore/firebase-tools.json
+
+python
+
+- 🛒 requirements.txt | requirements
+- 🧊 py.typed
+- 📦 pyproject.toml
+- 📜 MANIFEST.in
+- 🌈 .config/pycodestyle
+- ❄️ .config/flake8
+- ❄️ .flake8
 
 application
 
 - 🐳 DOCKERFILE
 - 👷‍♂️ Makefile
-- 🔥 .firebaserc | firebase.json
-- 🛒 requirements.txt | requirements
-- 🧊 py.typed
-- ⚙️ pyproject.toml
-- ❄️ .flake8
+- 🍺 Brewfile | Brewfile.lock.json
+- 🔒 Gemfile.lock
+- 🌈 .config/neofetch/config.conf
+- 🐀 .editorconfig
+- 🤫 .hushlogin
 
-config
+environments
 
 - ⚙️ config.json
+- ⚙️ .env | .environ
 - 👩‍🔬 .env.test
 - 👷‍♂️ .env.development
 - 👨‍🚀 .env.production
 - 🇳🇿 .env.NZ
 - 🇦🇺 .env.AU
-- 🇨🇳 .env.CN
-- 🇺🇸 .env.US
-- 🇨🇦 .env.CA
 - 🇬🇧 .env.UK
+- 🇨🇦 .env.CA
+- 🇺🇸 .env.US
+- 🇨🇳 .env.CN
 - 🇩🇪 .env.DE
+- 🇦🇹 .env.AT
+- 🇨🇭 .env.CH
+- 🇧🇪 .env.BE
 - 🇫🇷 .env.FR
+- 🇮🇹 .env.IT
 - 🇮🇪 .env.IE
+- 🇩🇰 .env.DK
+- 🇸🇪 .env.SE
+- 🇫🇮 .env.FI
+- 🇳🇴 .env.NO
+- 🇮🇸 .env.IS
 
 #
 
@@ -170,13 +204,24 @@ config
 
 programming
 
-- 🐚 .sh | .bash
+- 🐚 .sh | .bash | .ps1
 - 🦩 .swift
 - 💎 .rb | .spec
 - 🦀 .rs
 - 🦫 .go
 - 🌚 .lua
 - 🧠 .bf
+- 🦇 .bat (Windows Batch)
+- 🐧 .awk (AWK)
+- 𝚻 .tex (TeX)
+- 🎏 .sed (sed, stream editor)
+- 𝛌 .hs | .hls (Haskell)
+
+Perl
+
+- 🐪 .pl (Perl)
+- 🧋 .pm (Perl module)
+- 🐬 .pod (Plain Old Documentation)
 
 Haxe
 
@@ -254,6 +299,7 @@ misc
 - 📊 .stats
 - 🔘 .todo
 - 📦 .pkg
+- 🏘 .properties
 
 images
 

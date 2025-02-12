@@ -9,13 +9,24 @@
 
 programming
 
-- 🐚 .sh | .bash
+- 🐚 .sh | .bash | .ps1
 - 🦩 .swift
 - 💎 .rb | .spec
 - 🦀 .rs
 - 🦫 .go
 - 🌚 .lua
 - 🧠 .bf
+- 🦇 .bat (Windows Batch)
+- 🐧 .awk (AWK)
+- 𝚻 .tex (TeX)
+- 🎏 .sed (sed, stream editor)
+- 𝛌 .hs | .hls (Haskell)
+
+Perl
+
+- 🐪 .pl (Perl)
+- 🧋 .pm (Perl module)
+- 🐬 .pod (Plain Old Documentation)
 
 Haxe
 
@@ -93,6 +104,7 @@ misc
 - 📊 .stats
 - 🔘 .todo
 - 📦 .pkg
+- 🏘 .properties
 
 images
 
